@@ -1,4 +1,28 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Machinist on Balance Guides</title><link>https://www.thebalanceffxiv.com/tags/machinist/</link><description>Recent content in Machinist on Balance Guides</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 28 Jul 2024 03:28:14 +0000</lastBuildDate><atom:link href="https://www.thebalanceffxiv.com/tags/machinist/index.xml" rel="self" type="application/rss+xml"/><item><title>Machinist Skills Overview</title><link>https://www.thebalanceffxiv.com/jobs/ranged/machinist/skills-overview/</link><pubDate>Sun, 28 Jul 2024 03:28:14 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/ranged/machinist/skills-overview/</guid><description>&lt;h1 id="single-target-actions">Single-Target Actions&lt;/h1>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Machinist on Balance Guides</title><link>https://www.thebalanceffxiv.com/tags/machinist/</link><description>Recent content in Machinist on Balance Guides</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 12 Apr 2025 05:49:30 +0000</lastBuildDate><atom:link href="https://www.thebalanceffxiv.com/tags/machinist/index.xml" rel="self" type="application/rss+xml"/><item><title>Machinist Basic Guide</title><link>https://www.thebalanceffxiv.com/jobs/ranged/machinist/basic-guide/</link><pubDate>Sat, 12 Apr 2025 05:49:30 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/ranged/machinist/basic-guide/</guid><description>&lt;h1 id="basic-machinist-guide">Basic Machinist Guide&lt;/h1>
+&lt;p>Welcome to the Basic Machinist Guide! Within this document, you&amp;rsquo;ll find all the information you&amp;rsquo;ll need to play the job well. The links below can be used as teleports to other pages if you need the information while learning the job. Any questions can be directed to the Machinist channels in our Discord.&lt;/p>
+&lt;p>&lt;a href="https://www.thebalanceffxiv.com/jobs/ranged/machinist/openers/">Openers&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://www.thebalanceffxiv.com/jobs/ranged/machinist/advanced-guide/">Advanced Guide&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://www.youtube.com/watch?v=-OPOskH-llQ">Video Guide&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://www.thebalanceffxiv.com/jobs/ranged/machinist/best-in-slot/">Gearing and Meld Priority&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://www.thebalanceffxiv.com/jobs/ranged/machinist/skills-overview/">Skills Overview&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://www.thebalanceffxiv.com/jobs/ranged/machinist/faq/">Frequently Asked Questions&lt;/a>&lt;/p></description></item><item><title>Machinist Best in Slot (BiS)</title><link>https://www.thebalanceffxiv.com/jobs/ranged/machinist/best-in-slot/</link><pubDate>Fri, 11 Apr 2025 06:32:55 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/ranged/machinist/best-in-slot/</guid><description/></item><item><title>Machinist Openers</title><link>https://www.thebalanceffxiv.com/jobs/ranged/machinist/openers/</link><pubDate>Fri, 11 Apr 2025 06:32:18 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/ranged/machinist/openers/</guid><description>&lt;h1 id="openers">Openers &lt;/h1>
+&lt;p>
+&lt;div class="md__image">
+ &lt;img id="[57 30 94 485 337 14]" src="https://www.thebalanceffxiv.com/img/jobs/mch/machinist-standard-opener-aa-6-.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/p>
+&lt;br>
+With the addition of the extra tools, and despite the fact that we want to optimize as best as we can into buffs, it is still ideal to start off with a prepull Reassemble. It shaves off quite a bit of time to get the cooldown rolling and could possibly net us an extra usage depending on the fight layout in Dawntrail. Depending on the fight, we can transpose Drill and Air Anchor in the opener if we can gain an extra Drill for it. 
+&lt;br>
+&lt;br>
+For now, Air Anchor remains the priority due to the huge value of 20 battery compared to the relatively small direct potency gain of using a tool over a combo GCD. The order of the oGCDs isn’t super important - we want to place the 2nd Reassemble in buffs, so it can be used on Excavator (second Chainsaw), or the following Drill, as long as it catches buffs. We want Wildfire to be used as early as possible within the buff window, so we weave it before Full Metal Field (second Barrel Stabilizer). We also aim to fit as many Double Check/Checkmate into buffs as possible. While we would much prefer a 2 minute pot if possible, some fights do not allow for this. If we have to use an opener pot, we want to use it two seconds before pulling the boss.
+&lt;br>
+&lt;br>
+&lt;p>
+&lt;div class="md__image">
+ &lt;img id="[211 3 158 198 146 143]" src="https://www.thebalanceffxiv.com/img/jobs/mch/machinist-alternative-opener-static-to-even-minute-bursts-.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/p></description></item><item><title>Machinist Skills Overview</title><link>https://www.thebalanceffxiv.com/jobs/ranged/machinist/skills-overview/</link><pubDate>Fri, 11 Apr 2025 06:31:09 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/ranged/machinist/skills-overview/</guid><description>&lt;h1 id="single-target-actions">Single-Target Actions&lt;/h1>
 &lt;table>
  &lt;thead>
  &lt;tr>
@@ -15,7 +39,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[229 266 369 130 374 132]" src="https://xivapi.com/i/003000/003031_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[269 446 97 99 166 193]" src="https://xivapi.com/i/003000/003031_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Heated Split Shot&lt;/td>
@@ -28,7 +52,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[164 378 404 441 102 233]" src="https://xivapi.com/i/003000/003032_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[473 463 211 441 470 55]" src="https://xivapi.com/i/003000/003032_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Heated Slug Shot&lt;/td>
@@ -41,7 +65,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[207 205 481 267 89 270]" src="https://xivapi.com/i/003000/003033_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[63 244 426 486 445 324]" src="https://xivapi.com/i/003000/003033_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Heated Clean Shot&lt;/td>
@@ -54,7 +78,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[348 447 131 263 185 115]" src="https://xivapi.com/i/003000/003043_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[275 208 428 449 455 490]" src="https://xivapi.com/i/003000/003043_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Drill&lt;/td>
@@ -67,7 +91,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[476 406 314 269 200 34]" src="https://xivapi.com/i/003000/003045_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[479 253 466 292 52 333]" src="https://xivapi.com/i/003000/003045_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Air Anchor&lt;/td>
@@ -80,7 +104,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[346 316 262 473 68 98]" src="https://xivapi.com/i/003000/003048_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[416 111 465 35 236 145]" src="https://xivapi.com/i/003000/003048_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Chain Saw&lt;/td>
@@ -93,7 +117,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[291 390 178 13 109 317]" src="https://xivapi.com/i/003000/003022_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[310 165 18 172 136 282]" src="https://xivapi.com/i/003000/003022_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Reassemble&lt;/td>
@@ -106,7 +130,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[142 203 35 338 306 358]" src="https://xivapi.com/i/003000/003041_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[210 282 167 96 274 315]" src="https://xivapi.com/i/003000/003041_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Hypercharge&lt;/td>
@@ -119,7 +143,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[43 172 52 187 472 448]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003506_hr1.tex?format=png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[146 297 413 102 92 271]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003506_hr1.tex?format=png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Blazing Shot&lt;/td>
@@ -132,7 +156,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[210 485 147 138 357 427]" src="https://ffxiv.gamerescape.com/w/images/thumb/f/f9/Checkmate_Icon.png/60px-Checkmate_Icon.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[123 469 111 28 137 309]" src="https://ffxiv.gamerescape.com/w/images/thumb/f/f9/Checkmate_Icon.png/60px-Checkmate_Icon.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Checkmate&lt;/td>
@@ -145,7 +169,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[175 300 173 445 217 216]" src="https://ffxiv.gamerescape.com/w/images/thumb/c/c9/Double_Check_Icon.png/60px-Double_Check_Icon.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[330 61 297 459 118 133]" src="https://ffxiv.gamerescape.com/w/images/thumb/c/c9/Double_Check_Icon.png/60px-Double_Check_Icon.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Double Check&lt;/td>
@@ -158,7 +182,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[435 341 18 325 174 299]" src="https://xivapi.com/i/003000/003018_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[301 194 494 6 38 383]" src="https://xivapi.com/i/003000/003018_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Wildfire&lt;/td>
@@ -171,7 +195,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[232 324 188 346 235 197]" src="https://xivapi.com/i/003000/003034_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[280 4 307 253 39 67]" src="https://xivapi.com/i/003000/003034_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Barrel Stabilizer&lt;/td>
@@ -184,7 +208,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[21 63 200 444 385 468]" src="https://ffxiv.gamerescape.com/w/images/thumb/3/3c/Excavator_Icon.png/60px-Excavator_Icon.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[33 161 49 77 57 182]" src="https://ffxiv.gamerescape.com/w/images/thumb/3/3c/Excavator_Icon.png/60px-Excavator_Icon.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Excavator&lt;/td>
@@ -197,7 +221,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[310 266 320 295 311 21]" src="https://ffxiv.gamerescape.com/w/images/thumb/5/56/Full_Metal_Field_Icon.png/60px-Full_Metal_Field_Icon.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[467 407 61 334 115 316]" src="https://ffxiv.gamerescape.com/w/images/thumb/5/56/Full_Metal_Field_Icon.png/60px-Full_Metal_Field_Icon.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Full Metal Field&lt;/td>
@@ -226,7 +250,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[351 462 234 500 363 156]" src="https://xivapi.com/i/003000/003044_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[197 271 453 96 428 209]" src="https://xivapi.com/i/003000/003044_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Bioblaster&lt;/td>
@@ -239,7 +263,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[344 403 301 132 285 371]" src="https://xivapi.com/i/003000/003046_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[102 390 171 305 205 245]" src="https://xivapi.com/i/003000/003046_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Scattergun&lt;/td>
@@ -252,7 +276,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[202 329 170 323 120 277]" src="https://xivapi.com/i/003000/003042_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[341 192 1 486 139 108]" src="https://xivapi.com/i/003000/003042_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Auto-Crossbow&lt;/td>
@@ -265,7 +289,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[117 195 94 393 289 250]" src="https://xivapi.com/i/003000/003038_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[396 206 146 467 123 331]" src="https://xivapi.com/i/003000/003038_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Flamethrower&lt;/td>
@@ -294,7 +318,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[4 166 313 169 418 300]" src="https://xivapi.com/i/003000/003501_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[322 28 266 210 76 254]" src="https://xivapi.com/i/003000/003501_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Automaton Queen&lt;/td>
@@ -307,7 +331,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[476 38 22 483 292 380]" src="https://xivapi.com/i/003000/003502_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[137 329 46 446 65 20]" src="https://xivapi.com/i/003000/003502_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Queen Overdrive&lt;/td>
@@ -320,7 +344,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[405 260 490 186 267 286]" src="https://xivapi.com/i/003000/003504_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[197 443 122 9 484 338]" src="https://xivapi.com/i/003000/003504_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Arm Punch&lt;/td>
@@ -333,7 +357,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[95 393 271 480 287 140]" src="https://xivapi.com/i/003000/003505_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[253 491 218 130 137 472]" src="https://xivapi.com/i/003000/003505_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Roller Dash&lt;/td>
@@ -346,7 +370,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[59 106 326 435 133 467]" src="https://xivapi.com/i/003000/003503_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[146 245 150 73 223 281]" src="https://xivapi.com/i/003000/003503_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Pile Bunker&lt;/td>
@@ -359,7 +383,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[361 216 15 219 485 467]" src="https://xivapi.com/i/003000/003047_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[391 332 24 488 243 160]" src="https://xivapi.com/i/003000/003047_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Crowned Collider&lt;/td>
@@ -388,7 +412,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[352 363 133 35 123 30]" src="https://xivapi.com/i/003000/003040_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[438 328 10 270 204 325]" src="https://xivapi.com/i/003000/003040_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Tactician&lt;/td>
@@ -401,7 +425,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[289 387 366 280 88 196]" src="https://xivapi.com/i/003000/003011_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[455 212 37 28 263 198]" src="https://xivapi.com/i/003000/003011_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Dismantle&lt;/td>
@@ -414,7 +438,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[367 166 27 354 25 424]" src="https://xivapi.com/i/000000/000843_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[90 221 276 430 302 487]" src="https://xivapi.com/i/000000/000843_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Leg Graze&lt;/td>
@@ -427,7 +451,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[417 400 201 99 280 423]" src="https://xivapi.com/i/000000/000842_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[464 23 268 434 63 298]" src="https://xivapi.com/i/000000/000842_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Foot Graze&lt;/td>
@@ -440,7 +464,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[396 476 84 141 346 222]" src="https://xivapi.com/i/000000/000848_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[307 7 118 120 280 239]" src="https://xivapi.com/i/000000/000848_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Head Graze&lt;/td>
@@ -453,7 +477,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[119 406 202 212 85 88]" src="https://xivapi.com/i/000000/000822_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[249 292 217 291 157 195]" src="https://xivapi.com/i/000000/000822_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Arm&amp;rsquo;s Length&lt;/td>
@@ -466,7 +490,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[214 459 490 348 383 51]" src="https://xivapi.com/i/000000/000821_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[460 457 109 485 498 57]" src="https://xivapi.com/i/000000/000821_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Second Wind&lt;/td>
@@ -479,7 +503,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[457 264 441 333 470 364]" src="https://xivapi.com/i/000000/000844_hr1.png" onclick="openModal(this.id)" alt="" />
+ &lt;img id="[439 237 173 330 175 88]" src="https://xivapi.com/i/000000/000844_hr1.png" onclick="openModal(this.id)" alt="" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Peloton&lt;/td>
@@ -490,31 +514,7 @@
  &lt;td style="text-align: left">Increases movement speed for self and nearby party members.&lt;/td>
  &lt;/tr>
  &lt;/tbody>
-&lt;/table></description></item><item><title>Machinist Best in Slot (BiS)</title><link>https://www.thebalanceffxiv.com/jobs/ranged/machinist/best-in-slot/</link><pubDate>Sat, 06 Jul 2024 12:37:20 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/ranged/machinist/best-in-slot/</guid><description/></item><item><title>Machinist Basic Guide</title><link>https://www.thebalanceffxiv.com/jobs/ranged/machinist/basic-guide/</link><pubDate>Tue, 02 Jul 2024 21:52:02 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/ranged/machinist/basic-guide/</guid><description>&lt;h1 id="basic-machinist-guide">Basic Machinist Guide&lt;/h1>
-&lt;p>Welcome to the Basic Machinist Guide! Within this document, you&amp;rsquo;ll find all the information you&amp;rsquo;ll need to play the job well. The links below can be used as teleports to other pages if you need the information while learning the job. Any questions can be directed to the Machinist channels in our Discord.&lt;/p>
-&lt;p>&lt;a href="https://www.thebalanceffxiv.com/jobs/ranged/machinist/openers/">Openers&lt;/a>&lt;/p>
-&lt;p>&lt;a href="https://www.thebalanceffxiv.com/jobs/ranged/machinist/advanced-guide/">Advanced Guide&lt;/a>&lt;/p>
-&lt;p>&lt;a href="https://www.youtube.com/watch?v=-OPOskH-llQ">Video Guide&lt;/a>&lt;/p>
-&lt;p>&lt;a href="https://www.thebalanceffxiv.com/jobs/ranged/machinist/best-in-slot/">Gearing and Meld Priority&lt;/a>&lt;/p>
-&lt;p>&lt;a href="https://www.thebalanceffxiv.com/jobs/ranged/machinist/skills-overview/">Skills Overview&lt;/a>&lt;/p>
-&lt;p>&lt;a href="https://www.thebalanceffxiv.com/jobs/ranged/machinist/faq/">Frequently Asked Questions&lt;/a>&lt;/p></description></item><item><title>Machinist Openers</title><link>https://www.thebalanceffxiv.com/jobs/ranged/machinist/openers/</link><pubDate>Fri, 28 Jun 2024 19:37:11 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/ranged/machinist/openers/</guid><description>&lt;h1 id="openers">Openers &lt;/h1>
-&lt;p>
-&lt;div class="md__image">
- &lt;img id="[469 170 245 338 346 493]" src="https://www.thebalanceffxiv.com/img/jobs/mch/machinist-standard-opener-aa-6-.png" onclick="openModal(this.id)" alt="" />
-&lt;/div>
-&lt;/p>
-&lt;br>
-With the addition of the extra tools, and despite the fact that we want to optimize as best as we can into buffs, it is still ideal to start off with a prepull Reassemble. It shaves off quite a bit of time to get the cooldown rolling and could possibly net us an extra usage depending on the fight layout in Dawntrail. Depending on the fight, we can transpose Drill and Air Anchor in the opener if we can gain an extra Drill for it. 
-&lt;br>
-&lt;br>
-For now, Air Anchor remains the priority due to the huge value of 20 battery compared to the relatively small direct potency gain of using a tool over a combo GCD. The order of the oGCDs isn’t super important - we want to place the 2nd Reassemble in buffs, so it can be used on Excavator (second Chainsaw), or the following Drill, as long as it catches buffs. We want Wildfire to be used as early as possible within the buff window, so we weave it before Full Metal Field (second Barrel Stabilizer). We also aim to fit as many Double Check/Checkmate into buffs as possible. While we would much prefer a 2 minute pot if possible, some fights do not allow for this. If we have to use an opener pot, we want to use it two seconds before pulling the boss.
-&lt;br>
-&lt;br>
-&lt;p>
-&lt;div class="md__image">
- &lt;img id="[490 124 277 105 411 160]" src="https://www.thebalanceffxiv.com/img/jobs/mch/machinist-alternative-opener-static-to-even-minute-bursts-.png" onclick="openModal(this.id)" alt="" />
-&lt;/div>
-&lt;/p></description></item><item><title>Machinist Advanced Guide</title><link>https://www.thebalanceffxiv.com/jobs/ranged/machinist/advanced-guide/</link><pubDate>Thu, 14 Sep 2023 12:15:43 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/ranged/machinist/advanced-guide/</guid><description>&lt;p>&lt;em>This guide is intended to give the reader the tools needed to approach encounter optimization as a Machinist.
+&lt;/table></description></item><item><title>Machinist Advanced Guide</title><link>https://www.thebalanceffxiv.com/jobs/ranged/machinist/advanced-guide/</link><pubDate>Thu, 14 Sep 2023 12:15:43 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/ranged/machinist/advanced-guide/</guid><description>&lt;p>&lt;em>This guide is intended to give the reader the tools needed to approach encounter optimization as a Machinist.
 It assumes you are already familiar with the fundamentals of the job – if you need a refresher, please
 read the &lt;a href="https://www.thebalanceffxiv.com/jobs/ranged/machinist/basic-guide/">Basic Guide&lt;/a> and come back when you&amp;rsquo;re done.&lt;/em>&lt;/p>
 &lt;h1 id="introduction-to-optimization">Introduction to Optimization&lt;/h1>
